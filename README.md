@@ -26,7 +26,6 @@ https://github.com/TEkdahl92/Honeymoon.git
 
 ## Credits
 * Google Fonts: https://fonts.google.com/
-* Remix Icon: https://remixicon.com/
 
 ## Preview
 ![Mini Website](./images/image.png)
